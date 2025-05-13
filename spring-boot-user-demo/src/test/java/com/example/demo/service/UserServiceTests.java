@@ -5,7 +5,11 @@ import org.junit.jupiter.api.Test;
 
 public class UserServiceTests {
 
-   
+    @Test
+    public void testAddUser() {
+        UserService userService = new UserServiceImpl(new FakeRepo());
+        userService.addUser("Cavin", "Khoza");
+    }
 
     @Test
     public void testGetUser() {
