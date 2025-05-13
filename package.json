@@ -1,0 +1,12 @@
+{
+  "name": "spring-boot-user-demo",
+  "version": "1.0.0",
+  "description": "## Overview Simple project using Spring Boot to manage users in-memory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
