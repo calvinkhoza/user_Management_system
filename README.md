@@ -1,4 +1,4 @@
-##User Management System
+# User Management System
 Overview
 This User Management System provides a RESTful API to manage user data. It supports the following operations:
 
